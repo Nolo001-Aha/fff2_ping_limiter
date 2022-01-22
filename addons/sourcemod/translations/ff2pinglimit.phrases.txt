@@ -1,0 +1,36 @@
+"Phrases"
+{
+	"Boss Blocked Ping"
+	{
+		"#format"	"{1:N},{2:i},{3:i}"
+		"en"		"Freak Fortress : Ping Manager\nHello {1}!It looks like your average ping value({2}) is higher than our maximim allowed one({3}).\nFor that reason, your Boss Queue points were temporarily set to 0. But don't worry!\nOnce your ping normalizes, your points will be given back and you will be able to be the Boss again.\nWe are sorry for any inconvenience.\n"
+		"ru"		"Freak Fortress : Ограничитель Ping: Кажется, ваш ping({2}) превышает максимально допустимый({3}). Ваши очки очереди были временно сброшены.\nНе волнуйтесь! Когда ваш пинг стабилизируется, ваши очки очереди будут восстановлены. Приносим свои извинения.\n"
+	}
+	"Boss Blocked Ok Button"
+	{
+		"en"	"Ok, I understand."
+		"ru"	"Хорошо, я понимаю."
+	}
+	"Boss Blocked Ok Button Don't Show"
+	{
+		"en"	"Ok, don't show this again."
+		"ru"	"Хорошо, больше не показывать."
+	}
+	"Ping Boss Unblocked"
+	{
+		"en"	"{olive}[FF2 Ping Manager]{default} {green}Your ping is now below the limit. Your queue points have been restored{default}."
+		"ru"	"{olive}[FF2 Ping Manager]{default} {green}Ваш ping стабилизировался. Ваши очки очереди восстановлены{default}."
+	}
+	"Boss Blocked Ping Message Chat"
+	{
+		"#format"	"{1:N}"
+		"en"	"{olive}[FF2 Ping Manager]{default} Queue points of player {olive}{1}{default} were {red}temporarily set to 0{default} due to {red}excessive ping{default}."
+		"ru"	"{olive}[FF2 Ping Manager]{default} Очки очереди игрока {olive}{1}{default} были временно сброшены из-за повышенного ping."
+	}
+	"Maxping Command"
+	{
+		"#format"	"{1:i},{2:i}"
+		"en" "{olive}[FF2 Ping Manager]{default} Current maximum allowed ping is {green}{1}{default}. Your ping is {green}{2}{default}."
+		"ru" "{olive}[FF2 Ping Manager]{default} Текущий разрешенный ping: {green}{1}{default}. Ваш ping: {green}{2}{default}."		
+	}
+}
