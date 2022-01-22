@@ -25,7 +25,8 @@ This plugin has two main modes - Static and Dynamic.
 **Installation:**
 
 1. Compile and upload to addons/sourcemod/plugins.
-2. Adjust it's ConVars according to your needs. ConVars below.
+2. Upload translations to addons/sourcemod/translations.
+3. Adjust it's ConVars according to your needs. ConVars below.
 
 
 **ConVars:**
